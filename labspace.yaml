@@ -1,11 +1,13 @@
-title: Labspace starter
+title: AI System Design: Ticket Triage
 description: |
-  A basic template for creating a Labspace, including all of the boilerplate needed to write and publish a Labspace.
+  Master the end-to-end design of an AI-powered Customer Support Ticket Triage System, from requirements to deployment.
 
 sections:
-  - title: Introduction
-    contentPath: .labspace/01-introduction.md
-  - title: Main Content 1
-    contentPath: .labspace/02-main-content.md
-  - title: Conclusion
-    contentPath: .labspace/03-conclusion.md
+  - title: 1. Problem & Architecture
+    contentPath: .labspace/01-problem-architecture.md
+  - title: 2. Data & Feature Engineering
+    contentPath: .labspace/02-data-features.md
+  - title: 3. Modeling & Evaluation
+    contentPath: .labspace/03-modeling-eval.md
+  - title: 4. Deployment Strategy
+    contentPath: .labspace/04-deployment.md
